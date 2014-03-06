@@ -1,7 +1,7 @@
 {
   "name": "hadron-disqus",
   "description": "Disqus plugin for Hadron",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "homepage": "https://github.com/hadronjs/hadron-disqus",
   "author": {
     "name": "Mario Casciaro"
@@ -20,6 +20,6 @@
     }
   ],
   "peerDependencies": {
-    "hadron": "~0.2.0"
+    "hadron": "~0.3.0"
   }
 }
